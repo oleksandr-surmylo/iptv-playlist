@@ -30,11 +30,11 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rosia" tvg-logo="https://iptvx.one/picons/neizvestnaya-rosia.png" group-title="Общественные",Неизвестная Россия (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.69
 http://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.one/img2/162.png" group-title="Общественные",НТВ (HVGA)
-#EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10)
-https://s83.chas.tv:8082/chas/ntvtv.stream/playlist.m3u8
+# #EXTINF:-1 tvg-id="ntv" tvg-logo="http://epg.one/img2/162.png" group-title="Общественные",НТВ (HVGA)
+# #EXTVLCOPT:http-user-agent=appName/2.2 (Linux;Android 10)
+# https://s83.chas.tv:8082/chas/ntvtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="Общественные",НТВ (HD)
-http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
+https://s.tvua.biz/XyUp-3_jNPEvDHK-Dn2jlg/537/1738983355/index.m3u8
 #EXTINF:-1 tvg-id="ntv-belarus" tvg-logo="https://iptvx.one/picons/ntv-belarus.png" group-title="Общественные",НТВ Беларусь (HD)
 http://93.189.224.246:52900/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="ont-by" tvg-logo="https://iptvx.one/picons/ont-by.png" group-title="Общественные",ОНТ (HD)
